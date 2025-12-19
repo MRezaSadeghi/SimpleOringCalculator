@@ -47,7 +47,7 @@ def get_cord_groove_volume(ID: float, OD: float, H: float, L: float) -> float:
 def get_compression_ratio(CS: float, W: float) -> float:
     check_negative_value([CS, W])
     
-    return (1 - CS/W) * 100
+    return (1 - W/CS) * 100
 
 def get_compression(CS: float, W: float) -> float:
     check_negative_value([CS, W])    
