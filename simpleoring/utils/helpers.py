@@ -1,5 +1,5 @@
 import numpy as np
-from src.logging.logger import logger
+from simpleoring.logging.logger import logger
 
 check_negative_value_string = "ValueError: The value of the input parameter is not valid (should be positive)."
 inner_outer_conflict_error_string = "The value of ID should be less than OD."

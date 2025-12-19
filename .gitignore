@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+simpleoring/logging/log_data/*
 
 # Distribution / packaging
 .Python
