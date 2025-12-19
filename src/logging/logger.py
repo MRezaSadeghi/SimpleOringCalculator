@@ -1,6 +1,6 @@
 import logging
 import logging.config
-import config.paths as paths
+import src.config.paths as paths
 
 logging.config.fileConfig(
     paths.LOGGER_CONFIG,
