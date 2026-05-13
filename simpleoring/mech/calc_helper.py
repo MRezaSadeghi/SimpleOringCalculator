@@ -1,6 +1,19 @@
 import numpy as np
 
 from simpleoring.logrecorder.logger import logger
+from simpleoring.properties import Groove, Oring
+
+
+def get_housing_fill(oring: Oring, groove: Groove) -> float:
+    return (groove.groove_volume / oring.oring_volume - 1) * 100
+
+
+def get_squeeze(oring: Oring, groove: Groove) -> float:
+    return (groove.groove_char / oring.cross_section_dia - 1) * 100
+
+
+"""
+exit()
 
 check_negative_value_string = (
     "ValueError: The value of the input parameter is not valid (should be positive)."
@@ -84,3 +97,4 @@ def get_house_fill_ratio(oring_volume: float, groove_volume: float) -> float:
     check_negative_value([oring_volume, groove_volume])
 
     return (oring_volume / groove_volume - 1) * 100
+"""

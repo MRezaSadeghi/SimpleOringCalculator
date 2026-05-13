@@ -1,6 +1,9 @@
 import math
 from dataclasses import dataclass
 
+import numpy as np
+
+from simpleoring.condition import Sealing
 from simpleoring.materials import Material
 
 
@@ -22,3 +25,16 @@ class Groove:
     groove_id: float
     groove_od: float
     groove_depth: float
+    sealing_type: Sealing.PistonSeal | Sealing.RodSeal | Sealing.FaceSeal
+
+    def __post_init__(self):
+        r1 = self.groove_id / 2
+        r2 = self.groove_od / 2
+        a = np.pi * (r2**2 - r1**2)
+        self.groove_volume = a * self.groove_depth
+
+        self.groove_char = None
+        if self.sealing_type == Sealing.FaceSeal:
+            self.groove_char = self.groove_depth
+        else:
+            self.groove_char = (self.groove_od - self.groove_id) / 2
