@@ -1,6 +1,8 @@
-from simpleoring.logging.logger import logger
+from simpleoring.logrecorder.logger import logger
+from simpleoring.mech import oring
+
 logger.info("hi")
 
-from simpleoring.mech import oring
+
 x = oring.FaceSeal(usage="a")
 print(x)
