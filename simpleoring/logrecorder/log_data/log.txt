@@ -249,3 +249,676 @@
 [2026-05-14 08:47:56.405][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
 [2026-05-14 08:47:56.405][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
 [2026-05-14 08:47:56.407][calc_helper.py:112][INFO]: Overall Cost: 2.3
+[2026-05-14 09:10:32.597][calc_helper.py:69][INFO]: Housing fill (%): 80.7
+[2026-05-14 09:10:32.597][calc_helper.py:70][INFO]: Squeeze (%): 60.0
+[2026-05-14 09:10:32.597][calc_helper.py:71][INFO]: Rad. stretch (%): 1.2
+[2026-05-14 09:10:32.597][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:10:32.597][calc_helper.py:27][WARNING]: Housing fill should not be higher than 80.0, but it is 80.7
+[2026-05-14 09:10:32.597][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 60.0
+[2026-05-14 09:10:32.597][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 1.2
+[2026-05-14 09:10:32.599][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:10:32.599][calc_helper.py:112][INFO]: Overall Cost: 55.7
+[2026-05-14 09:10:58.284][calc_helper.py:69][INFO]: Housing fill (%): 86.7
+[2026-05-14 09:10:58.284][calc_helper.py:70][INFO]: Squeeze (%): 72.5
+[2026-05-14 09:10:58.284][calc_helper.py:71][INFO]: Rad. stretch (%): 1.7
+[2026-05-14 09:10:58.284][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:10:58.284][calc_helper.py:27][WARNING]: Housing fill should not be higher than 80.0, but it is 86.7
+[2026-05-14 09:10:58.286][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 72.5
+[2026-05-14 09:10:58.286][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 1.7
+[2026-05-14 09:10:58.286][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:10:58.286][calc_helper.py:112][INFO]: Overall Cost: 74.2
+[2026-05-14 09:11:11.532][calc_helper.py:69][INFO]: Housing fill (%): 74.8
+[2026-05-14 09:11:11.532][calc_helper.py:70][INFO]: Squeeze (%): 47.5
+[2026-05-14 09:11:11.532][calc_helper.py:71][INFO]: Rad. stretch (%): 0.6
+[2026-05-14 09:11:11.534][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:11:11.534][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 74.8
+[2026-05-14 09:11:11.534][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 47.5
+[2026-05-14 09:11:11.534][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is 0.6
+[2026-05-14 09:11:11.534][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:11:11.534][calc_helper.py:112][INFO]: Overall Cost: 42.9
+[2026-05-14 09:14:05.961][calc_helper.py:69][INFO]: Housing fill (%): 74.8
+[2026-05-14 09:14:05.961][calc_helper.py:70][INFO]: Squeeze (%): 47.5
+[2026-05-14 09:14:05.961][calc_helper.py:71][INFO]: Rad. stretch (%): 0.6
+[2026-05-14 09:14:05.963][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:14:05.963][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 74.8
+[2026-05-14 09:14:05.963][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 47.5
+[2026-05-14 09:14:05.963][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is 0.6
+[2026-05-14 09:14:05.963][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:14:05.963][calc_helper.py:112][INFO]: Overall Cost: 42.9
+[2026-05-14 09:14:50.844][calc_helper.py:69][INFO]: Housing fill (%): 74.8
+[2026-05-14 09:14:50.844][calc_helper.py:70][INFO]: Squeeze (%): 47.5
+[2026-05-14 09:14:50.844][calc_helper.py:71][INFO]: Rad. stretch (%): 0.6
+[2026-05-14 09:14:50.844][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:14:50.845][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 74.8
+[2026-05-14 09:14:50.845][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 47.5
+[2026-05-14 09:14:50.845][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is 0.6
+[2026-05-14 09:14:50.845][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:14:50.846][calc_helper.py:112][INFO]: Overall Cost: 42.9
+[2026-05-14 09:15:36.735][calc_helper.py:69][INFO]: Housing fill (%): 74.8
+[2026-05-14 09:15:36.735][calc_helper.py:70][INFO]: Squeeze (%): 47.5
+[2026-05-14 09:15:36.737][calc_helper.py:71][INFO]: Rad. stretch (%): 0.6
+[2026-05-14 09:15:36.737][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:15:36.737][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 74.8
+[2026-05-14 09:15:36.737][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 47.5
+[2026-05-14 09:15:36.737][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is 0.6
+[2026-05-14 09:15:36.737][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:15:36.737][calc_helper.py:112][INFO]: Overall Cost: 42.9
+[2026-05-14 09:16:27.518][calc_helper.py:69][INFO]: Housing fill (%): 80.7
+[2026-05-14 09:16:27.518][calc_helper.py:70][INFO]: Squeeze (%): 60.0
+[2026-05-14 09:16:27.518][calc_helper.py:71][INFO]: Rad. stretch (%): 1.2
+[2026-05-14 09:16:27.518][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:16:27.518][calc_helper.py:27][WARNING]: Housing fill should not be higher than 80.0, but it is 80.7
+[2026-05-14 09:16:27.518][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 60.0
+[2026-05-14 09:16:27.520][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 1.2
+[2026-05-14 09:16:27.520][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.6
+[2026-05-14 09:16:27.520][calc_helper.py:112][INFO]: Overall Cost: 55.7
+[2026-05-14 09:16:55.427][calc_helper.py:69][INFO]: Housing fill (%): 65.2
+[2026-05-14 09:16:55.429][calc_helper.py:70][INFO]: Squeeze (%): 46.7
+[2026-05-14 09:16:55.429][calc_helper.py:71][INFO]: Rad. stretch (%): 2.4
+[2026-05-14 09:16:55.429][calc_helper.py:72][INFO]: Rad. compression (%): -0.7
+[2026-05-14 09:16:55.429][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 65.2
+[2026-05-14 09:16:55.429][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 46.7
+[2026-05-14 09:16:55.429][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.4
+[2026-05-14 09:16:55.429][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -0.7
+[2026-05-14 09:16:55.429][calc_helper.py:112][INFO]: Overall Cost: 46.4
+[2026-05-14 09:17:00.553][calc_helper.py:69][INFO]: Housing fill (%): 65.2
+[2026-05-14 09:17:00.553][calc_helper.py:70][INFO]: Squeeze (%): 46.7
+[2026-05-14 09:17:00.553][calc_helper.py:71][INFO]: Rad. stretch (%): 2.4
+[2026-05-14 09:17:00.555][calc_helper.py:72][INFO]: Rad. compression (%): -0.7
+[2026-05-14 09:17:00.555][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 65.2
+[2026-05-14 09:17:00.555][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 46.7
+[2026-05-14 09:17:00.555][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.4
+[2026-05-14 09:17:00.555][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -0.7
+[2026-05-14 09:17:00.555][calc_helper.py:112][INFO]: Overall Cost: 46.4
+[2026-05-14 09:17:23.004][calc_helper.py:69][INFO]: Housing fill (%): 21.6
+[2026-05-14 09:17:23.004][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:17:23.006][calc_helper.py:71][INFO]: Rad. stretch (%): 2.4
+[2026-05-14 09:17:23.006][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:17:23.006][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 21.6
+[2026-05-14 09:17:23.006][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 20.0
+[2026-05-14 09:17:23.006][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.4
+[2026-05-14 09:17:23.006][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -1.8
+[2026-05-14 09:17:23.006][calc_helper.py:112][INFO]: Overall Cost: 63.4
+[2026-05-14 09:17:46.435][calc_helper.py:69][INFO]: Housing fill (%): 9.4
+[2026-05-14 09:17:46.435][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:17:46.435][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:17:46.435][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:17:46.437][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 9.4
+[2026-05-14 09:17:46.437][calc_helper.py:20][WARNING]: Squeeze should not be less than 10.0, but it is 7.5
+[2026-05-14 09:17:46.437][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.1
+[2026-05-14 09:17:46.437][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -1.8
+[2026-05-14 09:17:46.437][calc_helper.py:112][INFO]: Overall Cost: 63.1
+[2026-05-14 09:18:00.218][calc_helper.py:69][INFO]: Housing fill (%): 59.9
+[2026-05-14 09:18:00.218][calc_helper.py:70][INFO]: Squeeze (%): 38.3
+[2026-05-14 09:18:00.218][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:18:00.218][calc_helper.py:72][INFO]: Rad. compression (%): -0.7
+[2026-05-14 09:18:00.220][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 59.9
+[2026-05-14 09:18:00.220][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 38.3
+[2026-05-14 09:18:00.220][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.1
+[2026-05-14 09:18:00.220][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -0.7
+[2026-05-14 09:18:00.220][calc_helper.py:112][INFO]: Overall Cost: 43.5
+[2026-05-14 09:18:29.717][calc_helper.py:69][INFO]: Housing fill (%): 73.0
+[2026-05-14 09:18:29.717][calc_helper.py:70][INFO]: Squeeze (%): 58.3
+[2026-05-14 09:18:29.717][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:18:29.717][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:18:29.717][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 73.0
+[2026-05-14 09:18:29.717][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 58.3
+[2026-05-14 09:18:29.717][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.1
+[2026-05-14 09:18:29.719][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:18:29.719][calc_helper.py:112][INFO]: Overall Cost: 53.3
+[2026-05-14 09:19:12.789][calc_helper.py:69][INFO]: Housing fill (%): 39.0
+[2026-05-14 09:19:12.789][calc_helper.py:70][INFO]: Squeeze (%): 37.5
+[2026-05-14 09:19:12.789][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:19:12.789][calc_helper.py:72][INFO]: Rad. compression (%): -1.1
+[2026-05-14 09:19:12.791][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 39.0
+[2026-05-14 09:19:12.791][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 37.5
+[2026-05-14 09:19:12.791][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.1
+[2026-05-14 09:19:12.791][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -1.1
+[2026-05-14 09:19:12.791][calc_helper.py:112][INFO]: Overall Cost: 63.5
+[2026-05-14 09:19:25.834][calc_helper.py:69][INFO]: Housing fill (%): 24.2
+[2026-05-14 09:19:25.834][calc_helper.py:70][INFO]: Squeeze (%): 22.5
+[2026-05-14 09:19:25.836][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:19:25.836][calc_helper.py:72][INFO]: Rad. compression (%): -1.5
+[2026-05-14 09:19:25.836][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 24.2
+[2026-05-14 09:19:25.836][calc_helper.py:27][WARNING]: Squeeze should not be higher than 5.0, but it is 22.5
+[2026-05-14 09:19:25.836][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 2.1
+[2026-05-14 09:19:25.836][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is -1.5
+[2026-05-14 09:19:25.836][calc_helper.py:112][INFO]: Overall Cost: 63.3
+[2026-05-14 09:19:40.432][calc_helper.py:69][INFO]: Housing fill (%): 24.2
+[2026-05-14 09:19:40.432][calc_helper.py:70][INFO]: Squeeze (%): 22.5
+[2026-05-14 09:19:40.434][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:19:40.434][calc_helper.py:72][INFO]: Rad. compression (%): -1.5
+[2026-05-14 09:19:40.434][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 24.2
+[2026-05-14 09:19:40.434][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 22.5
+[2026-05-14 09:19:40.434][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:19:40.434][calc_helper.py:112][INFO]: Overall Cost: 56.3
+[2026-05-14 09:20:12.532][calc_helper.py:69][INFO]: Housing fill (%): 39.4
+[2026-05-14 09:20:12.532][calc_helper.py:70][INFO]: Squeeze (%): 22.5
+[2026-05-14 09:20:12.532][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:20:12.534][calc_helper.py:72][INFO]: Rad. compression (%): -1.5
+[2026-05-14 09:20:12.534][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 39.4
+[2026-05-14 09:20:12.535][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 22.5
+[2026-05-14 09:20:12.535][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:20:12.535][calc_helper.py:112][INFO]: Overall Cost: 41.2
+[2026-05-14 09:20:17.899][calc_helper.py:69][INFO]: Housing fill (%): 49.5
+[2026-05-14 09:20:17.899][calc_helper.py:70][INFO]: Squeeze (%): 22.5
+[2026-05-14 09:20:17.899][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:20:17.899][calc_helper.py:72][INFO]: Rad. compression (%): -1.5
+[2026-05-14 09:20:17.899][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 49.5
+[2026-05-14 09:20:17.900][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 22.5
+[2026-05-14 09:20:17.900][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:20:17.900][calc_helper.py:112][INFO]: Overall Cost: 31.1
+[2026-05-14 09:20:29.603][calc_helper.py:69][INFO]: Housing fill (%): 42.9
+[2026-05-14 09:20:29.603][calc_helper.py:70][INFO]: Squeeze (%): 12.5
+[2026-05-14 09:20:29.603][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:20:29.603][calc_helper.py:72][INFO]: Rad. compression (%): -1.7
+[2026-05-14 09:20:29.603][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 42.9
+[2026-05-14 09:20:29.605][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 12.5
+[2026-05-14 09:20:29.605][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:20:29.605][calc_helper.py:112][INFO]: Overall Cost: 27.6
+[2026-05-14 09:20:44.198][calc_helper.py:69][INFO]: Housing fill (%): 39.6
+[2026-05-14 09:20:44.198][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:20:44.198][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:20:44.200][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:20:44.200][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 39.6
+[2026-05-14 09:20:44.200][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 7.5
+[2026-05-14 09:20:44.200][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:20:44.200][calc_helper.py:112][INFO]: Overall Cost: 25.9
+[2026-05-14 09:20:57.107][calc_helper.py:69][INFO]: Housing fill (%): 51.7
+[2026-05-14 09:20:57.107][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:20:57.107][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:20:57.107][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:20:57.107][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 51.7
+[2026-05-14 09:20:57.107][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 7.5
+[2026-05-14 09:20:57.107][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:20:57.109][calc_helper.py:112][INFO]: Overall Cost: 13.9
+[2026-05-14 09:21:01.889][calc_helper.py:69][INFO]: Housing fill (%): 54.7
+[2026-05-14 09:21:01.889][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:21:01.889][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:21:01.889][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:21:01.889][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 54.7
+[2026-05-14 09:21:01.889][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 7.5
+[2026-05-14 09:21:01.891][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:21:01.891][calc_helper.py:112][INFO]: Overall Cost: 10.8
+[2026-05-14 09:21:09.837][calc_helper.py:69][INFO]: Housing fill (%): 57.7
+[2026-05-14 09:21:09.837][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:21:09.837][calc_helper.py:71][INFO]: Rad. stretch (%): 2.1
+[2026-05-14 09:21:09.837][calc_helper.py:72][INFO]: Rad. compression (%): -1.8
+[2026-05-14 09:21:09.839][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.7
+[2026-05-14 09:21:09.839][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 7.5
+[2026-05-14 09:21:09.839][calc_helper.py:27][WARNING]: Rad. Stretch should not be higher than 2.0, but it is 2.1
+[2026-05-14 09:21:09.839][calc_helper.py:112][INFO]: Overall Cost: 7.8
+[2026-05-14 09:24:58.446][calc_helper.py:69][INFO]: Housing fill (%): 58.2
+[2026-05-14 09:24:58.446][calc_helper.py:70][INFO]: Squeeze (%): 7.5
+[2026-05-14 09:24:58.446][calc_helper.py:71][INFO]: Rad. stretch (%): 0.9
+[2026-05-14 09:24:58.446][calc_helper.py:72][INFO]: Rad. compression (%): -0.7
+[2026-05-14 09:24:58.447][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 58.2
+[2026-05-14 09:24:58.447][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 7.5
+[2026-05-14 09:24:58.447][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.9
+[2026-05-14 09:24:58.447][calc_helper.py:112][INFO]: Overall Cost: 7.3
+[2026-05-14 09:29:09.928][calc_helper.py:69][INFO]: Housing fill (%): 64.2
+[2026-05-14 09:29:09.928][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:29:09.928][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:29:09.928][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:29:09.928][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 64.2
+[2026-05-14 09:29:09.928][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 20.0
+[2026-05-14 09:29:09.928][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:29:09.930][calc_helper.py:112][INFO]: Overall Cost: 18.0
+[2026-05-14 09:29:18.524][calc_helper.py:69][INFO]: Housing fill (%): 69.3
+[2026-05-14 09:29:18.524][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:29:18.524][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:29:18.526][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:29:18.526][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 69.3
+[2026-05-14 09:29:18.526][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 20.0
+[2026-05-14 09:29:18.526][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:29:18.526][calc_helper.py:112][INFO]: Overall Cost: 18.0
+[2026-05-14 09:29:26.042][calc_helper.py:69][INFO]: Housing fill (%): 64.2
+[2026-05-14 09:29:26.042][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:29:26.042][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:29:26.042][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:29:26.042][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 64.2
+[2026-05-14 09:29:26.042][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 20.0
+[2026-05-14 09:29:26.042][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:29:26.042][calc_helper.py:112][INFO]: Overall Cost: 18.0
+[2026-05-14 09:29:39.542][calc_helper.py:69][INFO]: Housing fill (%): 68.7
+[2026-05-14 09:29:39.542][calc_helper.py:70][INFO]: Squeeze (%): 30.0
+[2026-05-14 09:29:39.542][calc_helper.py:71][INFO]: Rad. stretch (%): 0.2
+[2026-05-14 09:29:39.542][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:29:39.542][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 68.7
+[2026-05-14 09:29:39.544][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 30.0
+[2026-05-14 09:29:39.544][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.2
+[2026-05-14 09:29:39.544][calc_helper.py:112][INFO]: Overall Cost: 28.0
+[2026-05-14 09:29:51.762][calc_helper.py:69][INFO]: Housing fill (%): 57.6
+[2026-05-14 09:29:51.762][calc_helper.py:70][INFO]: Squeeze (%): 5.0
+[2026-05-14 09:29:51.762][calc_helper.py:71][INFO]: Rad. stretch (%): -0.3
+[2026-05-14 09:29:51.762][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:29:51.762][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.6
+[2026-05-14 09:29:51.762][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 5.0
+[2026-05-14 09:29:51.762][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.3
+[2026-05-14 09:29:51.764][calc_helper.py:112][INFO]: Overall Cost: 5.4
+[2026-05-14 09:30:02.046][calc_helper.py:69][INFO]: Housing fill (%): 55.4
+[2026-05-14 09:30:02.047][calc_helper.py:70][INFO]: Squeeze (%): -0.0
+[2026-05-14 09:30:02.047][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:30:02.047][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:30:02.047][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 55.4
+[2026-05-14 09:30:02.048][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is -0.0
+[2026-05-14 09:30:02.048][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:30:02.048][calc_helper.py:112][INFO]: Overall Cost: 7.6
+[2026-05-14 09:30:14.263][calc_helper.py:69][INFO]: Housing fill (%): 57.6
+[2026-05-14 09:30:14.265][calc_helper.py:70][INFO]: Squeeze (%): 5.0
+[2026-05-14 09:30:14.265][calc_helper.py:71][INFO]: Rad. stretch (%): -0.3
+[2026-05-14 09:30:14.265][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:30:14.265][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.6
+[2026-05-14 09:30:14.265][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 5.0
+[2026-05-14 09:30:14.265][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.3
+[2026-05-14 09:30:14.265][calc_helper.py:112][INFO]: Overall Cost: 5.4
+[2026-05-14 09:30:24.946][calc_helper.py:69][INFO]: Housing fill (%): 53.2
+[2026-05-14 09:30:24.947][calc_helper.py:70][INFO]: Squeeze (%): -5.0
+[2026-05-14 09:30:24.948][calc_helper.py:71][INFO]: Rad. stretch (%): -0.6
+[2026-05-14 09:30:24.948][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:30:24.948][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 53.2
+[2026-05-14 09:30:24.948][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is -5.0
+[2026-05-14 09:30:24.948][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.6
+[2026-05-14 09:30:24.948][calc_helper.py:112][INFO]: Overall Cost: 14.8
+[2026-05-14 09:30:30.678][calc_helper.py:69][INFO]: Housing fill (%): 55.4
+[2026-05-14 09:30:30.678][calc_helper.py:70][INFO]: Squeeze (%): -0.0
+[2026-05-14 09:30:30.678][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:30:30.678][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:30:30.678][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 55.4
+[2026-05-14 09:30:30.678][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is -0.0
+[2026-05-14 09:30:30.681][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:30:30.681][calc_helper.py:112][INFO]: Overall Cost: 7.6
+[2026-05-14 09:30:41.115][calc_helper.py:69][INFO]: Housing fill (%): 57.6
+[2026-05-14 09:30:41.116][calc_helper.py:70][INFO]: Squeeze (%): 5.0
+[2026-05-14 09:30:41.116][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:30:41.116][calc_helper.py:72][INFO]: Rad. compression (%): 0.6
+[2026-05-14 09:30:41.117][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.6
+[2026-05-14 09:30:41.117][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 5.0
+[2026-05-14 09:30:41.117][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:30:41.117][calc_helper.py:112][INFO]: Overall Cost: 5.4
+[2026-05-14 09:30:47.528][calc_helper.py:69][INFO]: Housing fill (%): 59.9
+[2026-05-14 09:30:47.530][calc_helper.py:70][INFO]: Squeeze (%): 10.0
+[2026-05-14 09:30:47.530][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:30:47.530][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:30:47.530][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 59.9
+[2026-05-14 09:30:47.530][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 10.0
+[2026-05-14 09:30:47.530][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:30:47.532][calc_helper.py:112][INFO]: Overall Cost: 8.1
+[2026-05-14 09:30:52.528][calc_helper.py:69][INFO]: Housing fill (%): 56.5
+[2026-05-14 09:30:52.528][calc_helper.py:70][INFO]: Squeeze (%): 2.5
+[2026-05-14 09:30:52.528][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:30:52.528][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:30:52.530][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 56.5
+[2026-05-14 09:30:52.530][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is 2.5
+[2026-05-14 09:30:52.530][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:30:52.530][calc_helper.py:112][INFO]: Overall Cost: 4.0
+[2026-05-14 09:31:05.827][calc_helper.py:69][INFO]: Housing fill (%): 59.6
+[2026-05-14 09:31:05.827][calc_helper.py:70][INFO]: Squeeze (%): 2.5
+[2026-05-14 09:31:05.827][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:31:05.827][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:31:05.829][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 59.6
+[2026-05-14 09:31:05.829][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is 2.5
+[2026-05-14 09:31:05.829][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:31:05.829][calc_helper.py:112][INFO]: Overall Cost: 0.9
+[2026-05-14 09:32:58.785][calc_helper.py:69][INFO]: Housing fill (%): 25.5
+[2026-05-14 09:32:58.785][calc_helper.py:70][INFO]: Squeeze (%): 2.5
+[2026-05-14 09:32:58.785][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:32:58.785][calc_helper.py:72][INFO]: Rad. compression (%): 0.5
+[2026-05-14 09:32:58.785][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 25.5
+[2026-05-14 09:32:58.787][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is 2.5
+[2026-05-14 09:32:58.787][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:32:58.787][calc_helper.py:112][INFO]: Overall Cost: 35.0
+[2026-05-14 09:33:05.907][calc_helper.py:69][INFO]: Housing fill (%): 67.0
+[2026-05-14 09:33:05.907][calc_helper.py:70][INFO]: Squeeze (%): 35.0
+[2026-05-14 09:33:05.907][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:33:05.907][calc_helper.py:72][INFO]: Rad. compression (%): 1.6
+[2026-05-14 09:33:05.907][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 67.0
+[2026-05-14 09:33:05.907][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 35.0
+[2026-05-14 09:33:05.909][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:33:05.909][calc_helper.py:112][INFO]: Overall Cost: 33.0
+[2026-05-14 09:33:29.416][calc_helper.py:69][INFO]: Housing fill (%): 64.4
+[2026-05-14 09:33:29.416][calc_helper.py:70][INFO]: Squeeze (%): 30.0
+[2026-05-14 09:33:29.416][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:33:29.416][calc_helper.py:72][INFO]: Rad. compression (%): 1.5
+[2026-05-14 09:33:29.416][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 64.4
+[2026-05-14 09:33:29.417][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 30.0
+[2026-05-14 09:33:29.417][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:33:29.417][calc_helper.py:112][INFO]: Overall Cost: 28.0
+[2026-05-14 09:33:38.841][calc_helper.py:69][INFO]: Housing fill (%): 61.0
+[2026-05-14 09:33:38.844][calc_helper.py:70][INFO]: Squeeze (%): 23.3
+[2026-05-14 09:33:38.844][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:33:38.844][calc_helper.py:72][INFO]: Rad. compression (%): 1.2
+[2026-05-14 09:33:38.844][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 61.0
+[2026-05-14 09:33:38.844][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 23.3
+[2026-05-14 09:33:38.846][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:33:38.846][calc_helper.py:112][INFO]: Overall Cost: 21.3
+[2026-05-14 09:33:51.847][calc_helper.py:69][INFO]: Housing fill (%): 57.5
+[2026-05-14 09:33:51.847][calc_helper.py:70][INFO]: Squeeze (%): 16.7
+[2026-05-14 09:33:51.847][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:33:51.847][calc_helper.py:72][INFO]: Rad. compression (%): 1.0
+[2026-05-14 09:33:51.847][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.5
+[2026-05-14 09:33:51.849][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 16.7
+[2026-05-14 09:33:51.849][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:33:51.849][calc_helper.py:112][INFO]: Overall Cost: 17.2
+[2026-05-14 09:34:00.139][calc_helper.py:69][INFO]: Housing fill (%): 59.2
+[2026-05-14 09:34:00.139][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:34:00.139][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:34:00.139][calc_helper.py:72][INFO]: Rad. compression (%): 1.1
+[2026-05-14 09:34:00.139][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 59.2
+[2026-05-14 09:34:00.139][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 20.0
+[2026-05-14 09:34:00.141][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:34:00.141][calc_helper.py:112][INFO]: Overall Cost: 18.8
+[2026-05-14 09:34:16.885][calc_helper.py:69][INFO]: Housing fill (%): 45.6
+[2026-05-14 09:34:16.885][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:34:16.887][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:34:16.887][calc_helper.py:72][INFO]: Rad. compression (%): 1.1
+[2026-05-14 09:34:16.887][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 45.6
+[2026-05-14 09:34:16.887][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 20.0
+[2026-05-14 09:34:16.887][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:34:16.887][calc_helper.py:112][INFO]: Overall Cost: 32.4
+[2026-05-14 09:35:04.941][calc_helper.py:69][INFO]: Housing fill (%): 43.3
+[2026-05-14 09:35:04.941][calc_helper.py:70][INFO]: Squeeze (%): 16.7
+[2026-05-14 09:35:04.941][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:35:04.941][calc_helper.py:72][INFO]: Rad. compression (%): 1.0
+[2026-05-14 09:35:04.941][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 43.3
+[2026-05-14 09:35:04.943][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 16.7
+[2026-05-14 09:35:04.943][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:35:04.943][calc_helper.py:112][INFO]: Overall Cost: 31.3
+[2026-05-14 09:35:47.528][calc_helper.py:69][INFO]: Housing fill (%): 4.1
+[2026-05-14 09:35:47.528][calc_helper.py:70][INFO]: Squeeze (%): -25.0
+[2026-05-14 09:35:47.528][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:35:47.530][calc_helper.py:72][INFO]: Rad. compression (%): -0.1
+[2026-05-14 09:35:47.530][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 4.1
+[2026-05-14 09:35:47.530][calc_helper.py:20][WARNING]: Squeeze should not be less than 3.0, but it is -25.0
+[2026-05-14 09:35:47.530][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:35:47.530][calc_helper.py:112][INFO]: Overall Cost: 83.9
+[2026-05-14 09:36:06.579][calc_helper.py:69][INFO]: Housing fill (%): 46.6
+[2026-05-14 09:36:06.580][calc_helper.py:70][INFO]: Squeeze (%): 30.0
+[2026-05-14 09:36:06.580][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:36:06.580][calc_helper.py:72][INFO]: Rad. compression (%): 1.1
+[2026-05-14 09:36:06.582][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 46.6
+[2026-05-14 09:36:06.582][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 30.0
+[2026-05-14 09:36:06.582][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:36:06.583][calc_helper.py:112][INFO]: Overall Cost: 41.4
+[2026-05-14 09:36:31.457][calc_helper.py:69][INFO]: Housing fill (%): 27.4
+[2026-05-14 09:36:31.457][calc_helper.py:70][INFO]: Squeeze (%): 5.0
+[2026-05-14 09:36:31.457][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:36:31.457][calc_helper.py:72][INFO]: Rad. compression (%): 0.6
+[2026-05-14 09:36:31.457][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 27.4
+[2026-05-14 09:36:31.459][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 5.0
+[2026-05-14 09:36:31.459][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:36:31.459][calc_helper.py:112][INFO]: Overall Cost: 35.6
+[2026-05-14 09:36:38.922][calc_helper.py:69][INFO]: Housing fill (%): 33.4
+[2026-05-14 09:36:38.922][calc_helper.py:70][INFO]: Squeeze (%): 5.0
+[2026-05-14 09:36:38.922][calc_helper.py:71][INFO]: Rad. stretch (%): -0.5
+[2026-05-14 09:36:38.922][calc_helper.py:72][INFO]: Rad. compression (%): 0.6
+[2026-05-14 09:36:38.922][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 33.4
+[2026-05-14 09:36:38.924][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 5.0
+[2026-05-14 09:36:38.924][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is -0.5
+[2026-05-14 09:36:38.924][calc_helper.py:112][INFO]: Overall Cost: 29.6
+[2026-05-14 09:36:58.076][calc_helper.py:69][INFO]: Housing fill (%): 47.3
+[2026-05-14 09:36:58.076][calc_helper.py:70][INFO]: Squeeze (%): 25.0
+[2026-05-14 09:36:58.076][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:36:58.076][calc_helper.py:72][INFO]: Rad. compression (%): 0.6
+[2026-05-14 09:36:58.076][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 47.3
+[2026-05-14 09:36:58.076][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 25.0
+[2026-05-14 09:36:58.076][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:36:58.078][calc_helper.py:112][INFO]: Overall Cost: 35.7
+[2026-05-14 09:37:09.840][calc_helper.py:69][INFO]: Housing fill (%): 65.0
+[2026-05-14 09:37:09.842][calc_helper.py:70][INFO]: Squeeze (%): 50.0
+[2026-05-14 09:37:09.842][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:37:09.842][calc_helper.py:72][INFO]: Rad. compression (%): 1.1
+[2026-05-14 09:37:09.842][calc_helper.py:34][INFO]: Housing fill is in the boundary and works, it is 65.0
+[2026-05-14 09:37:09.843][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 50.0
+[2026-05-14 09:37:09.843][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:37:09.843][calc_helper.py:112][INFO]: Overall Cost: 48.0
+[2026-05-14 09:37:23.930][calc_helper.py:69][INFO]: Housing fill (%): 57.9
+[2026-05-14 09:37:23.930][calc_helper.py:70][INFO]: Squeeze (%): 40.0
+[2026-05-14 09:37:23.930][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:37:23.931][calc_helper.py:72][INFO]: Rad. compression (%): 0.9
+[2026-05-14 09:37:23.931][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 57.9
+[2026-05-14 09:37:23.931][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 40.0
+[2026-05-14 09:37:23.931][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:37:23.931][calc_helper.py:112][INFO]: Overall Cost: 40.1
+[2026-05-14 09:37:32.487][calc_helper.py:69][INFO]: Housing fill (%): 54.4
+[2026-05-14 09:37:32.487][calc_helper.py:70][INFO]: Squeeze (%): 35.0
+[2026-05-14 09:37:32.487][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:37:32.489][calc_helper.py:72][INFO]: Rad. compression (%): 0.8
+[2026-05-14 09:37:32.489][calc_helper.py:20][WARNING]: Housing fill should not be less than 60.0, but it is 54.4
+[2026-05-14 09:37:32.489][calc_helper.py:27][WARNING]: Squeeze should not be higher than 2.0, but it is 35.0
+[2026-05-14 09:37:32.489][calc_helper.py:34][INFO]: Rad. Stretch is in the boundary and works, it is 0.0
+[2026-05-14 09:37:32.490][calc_helper.py:112][INFO]: Overall Cost: 38.6
+[2026-05-14 09:41:57.015][calc_helper.py:69][INFO]: Housing fill (%): 34.9
+[2026-05-14 09:41:57.015][calc_helper.py:70][INFO]: Squeeze (%): 10.0
+[2026-05-14 09:41:57.015][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:41:57.015][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:41:57.015][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 34.9
+[2026-05-14 09:41:57.015][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 10.0
+[2026-05-14 09:41:57.017][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:41:57.017][calc_helper.py:112][INFO]: Overall Cost: 46.1
+[2026-05-14 09:42:13.374][calc_helper.py:69][INFO]: Housing fill (%): 38.5
+[2026-05-14 09:42:13.374][calc_helper.py:70][INFO]: Squeeze (%): 15.0
+[2026-05-14 09:42:13.374][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:42:13.374][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:42:13.374][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 38.5
+[2026-05-14 09:42:13.374][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 15.0
+[2026-05-14 09:42:13.376][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:42:13.376][calc_helper.py:112][INFO]: Overall Cost: 37.5
+[2026-05-14 09:42:44.430][calc_helper.py:69][INFO]: Housing fill (%): 41.3
+[2026-05-14 09:42:44.431][calc_helper.py:70][INFO]: Squeeze (%): 15.0
+[2026-05-14 09:42:44.432][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:42:44.432][calc_helper.py:72][INFO]: Rad. compression (%): 0.3
+[2026-05-14 09:42:44.432][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 41.3
+[2026-05-14 09:42:44.432][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 15.0
+[2026-05-14 09:42:44.432][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.3
+[2026-05-14 09:42:44.432][calc_helper.py:112][INFO]: Overall Cost: 34.7
+[2026-05-14 09:42:56.246][calc_helper.py:69][INFO]: Housing fill (%): 93.4
+[2026-05-14 09:42:56.246][calc_helper.py:70][INFO]: Squeeze (%): 15.0
+[2026-05-14 09:42:56.246][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:42:56.246][calc_helper.py:72][INFO]: Rad. compression (%): 5.7
+[2026-05-14 09:42:56.246][calc_helper.py:27][WARNING]: Housing fill should not be higher than 80.0, but it is 93.4
+[2026-05-14 09:42:56.246][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 15.0
+[2026-05-14 09:42:56.246][calc_helper.py:27][WARNING]: Rad. Compression should not be higher than 2.0, but it is 5.7
+[2026-05-14 09:42:56.248][calc_helper.py:112][INFO]: Overall Cost: 23.1
+[2026-05-14 09:43:09.991][calc_helper.py:69][INFO]: Housing fill (%): 45.7
+[2026-05-14 09:43:09.992][calc_helper.py:70][INFO]: Squeeze (%): 25.0
+[2026-05-14 09:43:09.992][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:43:09.992][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:43:09.992][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 45.7
+[2026-05-14 09:43:09.993][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:43:09.993][calc_helper.py:112][INFO]: Overall Cost: 24.3
+[2026-05-14 09:43:57.912][calc_helper.py:69][INFO]: Housing fill (%): 49.3
+[2026-05-14 09:43:57.912][calc_helper.py:70][INFO]: Squeeze (%): 30.0
+[2026-05-14 09:43:57.912][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:43:57.914][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:43:57.914][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 49.3
+[2026-05-14 09:43:57.914][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:43:57.914][calc_helper.py:112][INFO]: Overall Cost: 20.7
+[2026-05-14 09:44:03.699][calc_helper.py:69][INFO]: Housing fill (%): 53.0
+[2026-05-14 09:44:03.700][calc_helper.py:70][INFO]: Squeeze (%): 35.0
+[2026-05-14 09:44:03.700][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:44:03.700][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:44:03.700][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 53.0
+[2026-05-14 09:44:03.700][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:44:03.700][calc_helper.py:112][INFO]: Overall Cost: 17.0
+[2026-05-14 09:44:22.023][calc_helper.py:69][INFO]: Housing fill (%): 63.8
+[2026-05-14 09:44:22.023][calc_helper.py:70][INFO]: Squeeze (%): 50.0
+[2026-05-14 09:44:22.025][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:44:22.025][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:44:22.025][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 63.8
+[2026-05-14 09:44:22.025][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:44:22.025][calc_helper.py:112][INFO]: Overall Cost: 6.2
+[2026-05-14 09:44:42.279][calc_helper.py:69][INFO]: Housing fill (%): 34.9
+[2026-05-14 09:44:42.281][calc_helper.py:70][INFO]: Squeeze (%): 10.0
+[2026-05-14 09:44:42.281][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:44:42.281][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:44:42.283][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 34.9
+[2026-05-14 09:44:42.283][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 10.0
+[2026-05-14 09:44:42.283][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.0
+[2026-05-14 09:44:42.284][calc_helper.py:112][INFO]: Overall Cost: 46.1
+[2026-05-14 09:45:04.697][calc_helper.py:69][INFO]: Housing fill (%): 49.7
+[2026-05-14 09:45:04.697][calc_helper.py:70][INFO]: Squeeze (%): 10.0
+[2026-05-14 09:45:04.697][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:45:04.697][calc_helper.py:72][INFO]: Rad. compression (%): 1.4
+[2026-05-14 09:45:04.697][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 49.7
+[2026-05-14 09:45:04.697][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 10.0
+[2026-05-14 09:45:04.697][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.4
+[2026-05-14 09:45:04.697][calc_helper.py:112][INFO]: Overall Cost: 31.3
+[2026-05-14 09:45:19.213][calc_helper.py:69][INFO]: Housing fill (%): 55.3
+[2026-05-14 09:45:19.213][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:45:19.215][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:45:19.215][calc_helper.py:72][INFO]: Rad. compression (%): 1.4
+[2026-05-14 09:45:19.215][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 55.3
+[2026-05-14 09:45:19.215][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:45:19.215][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.4
+[2026-05-14 09:45:19.215][calc_helper.py:112][INFO]: Overall Cost: 15.7
+[2026-05-14 09:45:24.686][calc_helper.py:69][INFO]: Housing fill (%): 58.1
+[2026-05-14 09:45:24.686][calc_helper.py:70][INFO]: Squeeze (%): 25.0
+[2026-05-14 09:45:24.686][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:45:24.688][calc_helper.py:72][INFO]: Rad. compression (%): 1.4
+[2026-05-14 09:45:24.688][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 58.1
+[2026-05-14 09:45:24.688][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.4
+[2026-05-14 09:45:24.688][calc_helper.py:112][INFO]: Overall Cost: 11.9
+[2026-05-14 09:45:31.277][calc_helper.py:69][INFO]: Housing fill (%): 55.3
+[2026-05-14 09:45:31.277][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:45:31.277][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:45:31.277][calc_helper.py:72][INFO]: Rad. compression (%): 1.4
+[2026-05-14 09:45:31.277][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 55.3
+[2026-05-14 09:45:31.277][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:45:31.277][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 1.4
+[2026-05-14 09:45:31.279][calc_helper.py:112][INFO]: Overall Cost: 15.7
+[2026-05-14 09:45:46.083][calc_helper.py:69][INFO]: Housing fill (%): 48.7
+[2026-05-14 09:45:46.083][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:45:46.083][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:45:46.083][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:45:46.083][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 48.7
+[2026-05-14 09:45:46.083][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:45:46.085][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:45:46.086][calc_helper.py:112][INFO]: Overall Cost: 22.3
+[2026-05-14 09:45:56.617][calc_helper.py:69][INFO]: Housing fill (%): 55.0
+[2026-05-14 09:45:56.617][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:45:56.617][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:45:56.619][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:45:56.619][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 55.0
+[2026-05-14 09:45:56.619][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:45:56.619][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:45:56.619][calc_helper.py:112][INFO]: Overall Cost: 16.0
+[2026-05-14 09:46:03.992][calc_helper.py:69][INFO]: Housing fill (%): 57.8
+[2026-05-14 09:46:03.992][calc_helper.py:70][INFO]: Squeeze (%): 25.0
+[2026-05-14 09:46:03.992][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:46:03.994][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:46:03.994][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 57.8
+[2026-05-14 09:46:03.994][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:46:03.994][calc_helper.py:112][INFO]: Overall Cost: 12.2
+[2026-05-14 09:46:11.707][calc_helper.py:69][INFO]: Housing fill (%): 55.0
+[2026-05-14 09:46:11.707][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:46:11.707][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:46:11.707][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:46:11.707][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 55.0
+[2026-05-14 09:46:11.707][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:46:11.707][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:46:11.709][calc_helper.py:112][INFO]: Overall Cost: 16.0
+[2026-05-14 09:46:19.522][calc_helper.py:69][INFO]: Housing fill (%): 67.6
+[2026-05-14 09:46:19.522][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:46:19.522][calc_helper.py:71][INFO]: Rad. stretch (%): 1.4
+[2026-05-14 09:46:19.523][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:46:19.523][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 67.6
+[2026-05-14 09:46:19.523][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:46:19.523][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:46:19.524][calc_helper.py:112][INFO]: Overall Cost: 3.4
+[2026-05-14 09:46:51.278][calc_helper.py:69][INFO]: Housing fill (%): 48.7
+[2026-05-14 09:46:51.278][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:46:51.278][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:46:51.278][calc_helper.py:72][INFO]: Rad. compression (%): 0.7
+[2026-05-14 09:46:51.278][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 48.7
+[2026-05-14 09:46:51.280][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:46:51.280][calc_helper.py:34][INFO]: Rad. Compression is in the boundary and works, it is 0.7
+[2026-05-14 09:46:51.280][calc_helper.py:112][INFO]: Overall Cost: 22.3
+[2026-05-14 09:53:39.569][calc_helper.py:69][INFO]: Housing fill (%): 42.1
+[2026-05-14 09:53:39.569][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:53:39.569][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:53:39.569][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:53:39.569][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 42.1
+[2026-05-14 09:53:39.569][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:53:39.569][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.7
+[2026-05-14 09:53:39.571][calc_helper.py:112][INFO]: Overall Cost: 30.6
+[2026-05-14 09:54:03.928][calc_helper.py:69][INFO]: Housing fill (%): 45.7
+[2026-05-14 09:54:03.928][calc_helper.py:70][INFO]: Squeeze (%): 25.0
+[2026-05-14 09:54:03.928][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:54:03.928][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:03.928][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 45.7
+[2026-05-14 09:54:03.930][calc_helper.py:27][WARNING]: Squeeze should not be higher than 3.0, but it is 25.0
+[2026-05-14 09:54:03.930][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.7
+[2026-05-14 09:54:03.930][calc_helper.py:112][INFO]: Overall Cost: 48.0
+[2026-05-14 09:54:12.527][calc_helper.py:69][INFO]: Housing fill (%): 42.1
+[2026-05-14 09:54:12.527][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:54:12.529][calc_helper.py:71][INFO]: Rad. stretch (%): -0.7
+[2026-05-14 09:54:12.529][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:12.529][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 42.1
+[2026-05-14 09:54:12.529][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:54:12.529][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.7
+[2026-05-14 09:54:12.529][calc_helper.py:112][INFO]: Overall Cost: 30.6
+[2026-05-14 09:54:19.692][calc_helper.py:69][INFO]: Housing fill (%): 47.1
+[2026-05-14 09:54:19.694][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:54:19.694][calc_helper.py:71][INFO]: Rad. stretch (%): -0.1
+[2026-05-14 09:54:19.694][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:19.694][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 47.1
+[2026-05-14 09:54:19.694][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:54:19.694][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.1
+[2026-05-14 09:54:19.694][calc_helper.py:112][INFO]: Overall Cost: 25.0
+[2026-05-14 09:54:29.261][calc_helper.py:69][INFO]: Housing fill (%): 48.4
+[2026-05-14 09:54:29.261][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:54:29.261][calc_helper.py:71][INFO]: Rad. stretch (%): 0.0
+[2026-05-14 09:54:29.261][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:29.261][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 48.4
+[2026-05-14 09:54:29.261][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:54:29.263][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is 0.0
+[2026-05-14 09:54:29.263][calc_helper.py:112][INFO]: Overall Cost: 23.6
+[2026-05-14 09:54:39.027][calc_helper.py:69][INFO]: Housing fill (%): 44.6
+[2026-05-14 09:54:39.029][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:54:39.029][calc_helper.py:71][INFO]: Rad. stretch (%): -0.4
+[2026-05-14 09:54:39.029][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:39.029][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 44.6
+[2026-05-14 09:54:39.029][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:54:39.029][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.4
+[2026-05-14 09:54:39.029][calc_helper.py:112][INFO]: Overall Cost: 27.8
+[2026-05-14 09:54:56.643][calc_helper.py:69][INFO]: Housing fill (%): 45.8
+[2026-05-14 09:54:56.643][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:54:56.643][calc_helper.py:71][INFO]: Rad. stretch (%): -0.3
+[2026-05-14 09:54:56.643][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:54:56.643][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 45.8
+[2026-05-14 09:54:56.643][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:54:56.643][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.3
+[2026-05-14 09:54:56.643][calc_helper.py:112][INFO]: Overall Cost: 26.4
+[2026-05-14 09:55:01.703][calc_helper.py:69][INFO]: Housing fill (%): 47.1
+[2026-05-14 09:55:01.705][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:55:01.705][calc_helper.py:71][INFO]: Rad. stretch (%): -0.1
+[2026-05-14 09:55:01.705][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:55:01.705][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 47.1
+[2026-05-14 09:55:01.705][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:55:01.705][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.1
+[2026-05-14 09:55:01.705][calc_helper.py:112][INFO]: Overall Cost: 25.0
+[2026-05-14 09:55:26.869][calc_helper.py:69][INFO]: Housing fill (%): 47.1
+[2026-05-14 09:55:26.869][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:55:26.869][calc_helper.py:71][INFO]: Rad. stretch (%): -0.1
+[2026-05-14 09:55:26.871][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:55:26.871][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 47.1
+[2026-05-14 09:55:26.871][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:55:26.871][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.1
+[2026-05-14 09:55:26.871][calc_helper.py:112][INFO]: Overall Cost: 25.0
+[2026-05-14 09:55:34.776][calc_helper.py:69][INFO]: Housing fill (%): 45.8
+[2026-05-14 09:55:34.776][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:55:34.776][calc_helper.py:71][INFO]: Rad. stretch (%): -0.1
+[2026-05-14 09:55:34.778][calc_helper.py:72][INFO]: Rad. compression (%): -0.1
+[2026-05-14 09:55:34.778][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 45.8
+[2026-05-14 09:55:34.778][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:55:34.778][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.1
+[2026-05-14 09:55:34.778][calc_helper.py:112][INFO]: Overall Cost: 26.4
+[2026-05-14 09:55:47.293][calc_helper.py:69][INFO]: Housing fill (%): 47.1
+[2026-05-14 09:55:47.293][calc_helper.py:70][INFO]: Squeeze (%): 20.0
+[2026-05-14 09:55:47.293][calc_helper.py:71][INFO]: Rad. stretch (%): -0.1
+[2026-05-14 09:55:47.293][calc_helper.py:72][INFO]: Rad. compression (%): 0.0
+[2026-05-14 09:55:47.293][calc_helper.py:20][WARNING]: Housing fill should not be less than 70.0, but it is 47.1
+[2026-05-14 09:55:47.293][calc_helper.py:20][WARNING]: Squeeze should not be less than 21.0, but it is 20.0
+[2026-05-14 09:55:47.293][calc_helper.py:20][WARNING]: Rad. Stretch should not be less than 1.0, but it is -0.1
+[2026-05-14 09:55:47.293][calc_helper.py:112][INFO]: Overall Cost: 25.0

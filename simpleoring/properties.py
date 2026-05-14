@@ -26,6 +26,7 @@ class Groove:
     groove_od: float
     groove_depth: float
     sealing_type: Sealing.PistonSeal | Sealing.RodSeal | Sealing.FaceSeal
+    groove_char: float = None
 
     def __post_init__(self):
         r1 = self.groove_id / 2
