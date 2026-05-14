@@ -2,6 +2,18 @@ from enum import Enum
 
 
 class Sealing:
+    class Values(Enum):
+        SQUEEZE_MIN = None
+        SQUEEZE_MAX = None
+        SQUEEZE_OPT = None
+        GROOVE_FILL_MIN = None
+        GROOVE_FILL_MAX = None
+        STRETCH_MIN = None
+        STRETCH_MAX = None
+        RADIAL_COMPRESSION_MIN = None
+        RADIAL_COMPRESSION_MAX = None
+        BACKUP_THRESHOLD_MPA = None
+
     class PistonSeal:
         class Static(Enum):
             SQUEEZE_MIN = 10.0
@@ -95,8 +107,8 @@ class Sealing:
             SQUEEZE_OPT = 25.0
             GROOVE_FILL_MIN = 70.0
             GROOVE_FILL_MAX = 80.0
-            STRETCH_MIN = 0.0
-            STRETCH_MAX = 0.0  # Not applicable
+            STRETCH_MIN = None
+            STRETCH_MAX = None
             RADIAL_COMPRESSION_MIN = 0.0
             RADIAL_COMPRESSION_MAX = 2.0
             BACKUP_THRESHOLD_MPA = 20.7
