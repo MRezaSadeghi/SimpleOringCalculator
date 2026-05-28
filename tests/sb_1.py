@@ -7,7 +7,7 @@ cond = sealing_type.Internal
 oring = properties.Oring(cross_section_dia=2, oring_id=70, material=materials.NBR70)
 print(oring.oring_volume)
 groove = properties.Groove(
-    groove_depth=1.6, groove_id=69.9, groove_od=74.0, sealing_type=sealing_type
+    groove_depth=1.6, groove_id=69.9, groove_od=73.5, sealing_type=sealing_type
 )
 print(groove)
 print(oring)

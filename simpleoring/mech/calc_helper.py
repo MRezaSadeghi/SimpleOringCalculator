@@ -40,10 +40,13 @@ def check_boundary(
 
 
 def get_housing_fill(oring: Oring, groove: Groove) -> float:
-    return -(groove.groove_volume / oring.oring_volume - 1) * 100
+    logger.debug(f"housing vol: {(groove.groove_volume):.1f}mm")
+    logger.debug(f"oring vol: {(oring.oring_volume):.1f}mm")
+    return (oring.oring_volume / groove.groove_volume) * 100
 
 
 def get_squeeze(oring: Oring, groove: Groove) -> float:
+    logger.debug(f"compression: {(oring.cross_section_dia - groove.groove_char):.1f}mm")
     return -(groove.groove_char / oring.cross_section_dia - 1) * 100
 
 
@@ -54,7 +57,7 @@ def get_radial_stretch(oring: Oring, groove: Groove) -> float:
 
 def get_radial_compression(oring: Oring, groove: Groove) -> float:
     # applicable for Rod seals, External pressure face seals
-    return (oring.oring_od / groove.groove_od - 1) * 100
+    return (groove.groove_od / oring.oring_od - 1) * 100
 
 
 def get_characteristics(
@@ -66,10 +69,10 @@ def get_characteristics(
     c4 = get_radial_compression(oring, groove)
 
     if report:
-        logger.info(f"Housing fill (%): {c1:.1f}")
-        logger.info(f"Squeeze (%): {c2:.1f}")
-        logger.info(f"Rad. stretch (%): {c3:.1f}")
-        logger.info(f"Rad. compression (%): {c4:.1f}")
+        logger.info(f"Housing fill (%): {c1:.2f}")
+        logger.info(f"Compression (%): {c2:.2f}")
+        logger.info(f"Rad. stretch (%): {c3:.2f}")
+        logger.info(f"Rad. compression (%): {c4:.2f}")
 
     return c1, c2, c3, c4
 
