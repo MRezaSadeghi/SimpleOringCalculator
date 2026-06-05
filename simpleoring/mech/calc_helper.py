@@ -57,7 +57,7 @@ def get_radial_stretch(oring: Oring, groove: Groove) -> float:
 
 def get_radial_compression(oring: Oring, groove: Groove) -> float:
     # applicable for Rod seals, External pressure face seals
-    return (groove.groove_od / oring.oring_od - 1) * 100
+    return (1 - groove.groove_od / oring.oring_od) * 100
 
 
 def get_characteristics(
@@ -112,7 +112,7 @@ def evaluate_cond(oring: Oring, groove: Groove, cond: Sealing.Values):
     costs.append(cost)
     c = np.sum(np.array(costs))
 
-    logger.info(f"Overall Cost: {c:.1f}")
+    logger.info(f"Overall Score: {-c:.1f}")
 
 
 """

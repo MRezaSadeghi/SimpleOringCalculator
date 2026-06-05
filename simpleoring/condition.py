@@ -95,10 +95,10 @@ class Sealing:
             SQUEEZE_OPT = 25.0
             GROOVE_FILL_MIN = 70.0
             GROOVE_FILL_MAX = 80.0
-            STRETCH_MIN = 1.0
-            STRETCH_MAX = 3.0
-            RADIAL_COMPRESSION_MIN = None
-            RADIAL_COMPRESSION_MAX = None
+            STRETCH_MIN = None
+            STRETCH_MAX = None
+            RADIAL_COMPRESSION_MIN = 0
+            RADIAL_COMPRESSION_MAX = 2
             BACKUP_THRESHOLD_MPA = 20.7
 
         class External(Enum):
@@ -107,8 +107,8 @@ class Sealing:
             SQUEEZE_OPT = 25.0
             GROOVE_FILL_MIN = 70.0
             GROOVE_FILL_MAX = 80.0
-            STRETCH_MIN = None
-            STRETCH_MAX = None
-            RADIAL_COMPRESSION_MIN = 0.0
-            RADIAL_COMPRESSION_MAX = 2.0
+            STRETCH_MIN = 1
+            STRETCH_MAX = 3
+            RADIAL_COMPRESSION_MIN = None
+            RADIAL_COMPRESSION_MAX = None
             BACKUP_THRESHOLD_MPA = 20.7
